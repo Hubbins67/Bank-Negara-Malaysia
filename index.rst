@@ -1,4 +1,4 @@
-.. title:: Nutanix Calm and Flow Bootcamp
+.. title:: Bank Negara Malaysia Calm Workshop
 
 .. toctree::
   :maxdepth: 2
@@ -17,12 +17,7 @@
   :name: _intro_calm_labs
   :hidden:
 
-  what_is_calm/what_is_calm
   calm_sshkey_creation/calm_sshkey_creation
-  calm_basics/basics
-  calm_enable/calm_enable
-  calm_projects/calm_projects
-  calm_marketplace/calm_marketplace
 
 .. toctree::
   :maxdepth: 2
@@ -30,12 +25,11 @@
   :name: _primary_calm_labs
   :hidden:
 
-  calm_singlevm_blueprint/calm_singlevm_blueprint
-  calm_mysql_blueprint/calm_mysql_blueprint
   calm_linux/calm_linux
+  calm_day2/calm_day2
   calm_windows_blueprint/calm_windows_blueprint
   calm_win/calm_win
-  calm_day2/calm_day2
+
 
 .. toctree::
   :maxdepth: 2
@@ -55,11 +49,11 @@
 
 .. _getting_started:
 
------------------
-Calm TTT Workshop
------------------
+----------------------------------
+Bank Negara Malaysia Calm Workshop
+----------------------------------
 
-Welcome to the Calm Workshop! This workbook accompanies an instructor-led session that introduces Nutanix Calm and many common management tasks. Each section has a lesson and an exercise to give you hands-on practice. The instructor explains the exercises and answers any additional questions that you may have.
+Welcome to the Bank Negara Malaysia Calm Workshop! This workbook accompanies an instructor-led session that introduces Nutanix Calm and many common management tasks. Each section has a lesson and an exercise to give you hands-on practice. The instructor explains the exercises and answers any additional questions that you may have.
 
 At the end of the bootcamp, attendees should understand the basic concepts and technologies that make up Nutanix Calm and should be well prepared to install, design and operate Calm blueprints and applications.
 
